@@ -1,9 +1,4 @@
-# Words-That-Sell-Software-Testing
-The worlds list that weight your test messages to your clients, stakeholders
-Copyright by SIMON KNIGHT 
-<br>(see: http://sjpknight.com/words-that-sell-software-testing) 
-
-- Technical words that dazzle the listener or reader with the cutting-edge possibilities of a     product or service:
+Technical words that dazzle the listener or reader with the cutting-edge possibilities of a product or service:
 
 Powerful
 Functionality
@@ -15,7 +10,7 @@ High-performance
 Advanced
 Sets the standard
 
-- Cerebral words that appeal to the head and that carry a tone of maturity and competence:
+Cerebral words that appeal to the head and that carry a tone of maturity and competence:
 
 Assurance
 Collaborative
@@ -41,7 +36,7 @@ Stability
 Substantial
 Superior
 
-- Words that *work like magic* to win customers, appealing to a listener/readers elemental needs – a bargain, a fleeting opportunity, the urge to belong etc:
+Words that *work like magic* to win customers, appealing to a listener/readers elemental needs – a bargain, a fleeting opportunity, the urge to belong etc:
 
 Tips
 Tricks
@@ -66,7 +61,7 @@ Solves
 Delivers
 Performs
 
-- Words with negative qualities:
+Words with negative qualities:
 
 Baffling
 Unclear
